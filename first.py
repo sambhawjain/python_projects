@@ -8,3 +8,5 @@ print(thisdict)
 newdict = thisdict
 
 print(newdict)
+
+"""MY FIRST PYTHON"""
